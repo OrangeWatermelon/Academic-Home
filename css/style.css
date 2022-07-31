@@ -1487,10 +1487,31 @@ iframe {
 	}
 }
 
+.textbox{
+    height: 8rem;
+}
+.category {
+    margin: 2px 2px 2px 0;
+    padding: 1px 5px;
+    display: inline-block;
+    vertical-align: top;
+    background: #efefef;
+    font-size: 11px;
+    color: #363636;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -khtml-border-radius: 2px;
+    transition: all 0.2s ease 0s;
+    -moz-transition: all 0.2s ease 0s;
+    -webkit-transition: all 0.2s ease 0s;
+    -o-transition: all 0.2s ease 0s;
+}
 .case-item__icon {
 	margin-right: 1.2rem;
 	height: 10rem;
 	width: 10rem;
+    
 }
 
 @media only screen and (max-width: 580px) {
@@ -1509,6 +1530,7 @@ iframe {
 	color: #8697A8;
 	font-size: .875rem;
 	line-height: 1.5;
+    margin-bottom: 0.1rem;
 }
 
 .case-item__caption:last-child {
