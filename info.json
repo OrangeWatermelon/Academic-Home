@@ -1,0 +1,337 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/",
+            "path": "index.html",
+            "saved": true,
+            "size": 10248,
+            "children": [
+                {
+                    "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/icons/icon-design.svg",
+                    "path": "img/icon-design.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/icons/icon-dev.svg",
+                    "path": "img/icon-dev.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/icons/icon-app.svg",
+                    "path": "img/icon-app.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/icons/icon-photo.svg",
+                    "path": "img/icon-photo.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/img/logo-partner.svg",
+                    "path": "img/logo-partner.svg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/js/jquery-3.4.1.min.js",
+                    "path": "js/jquery-3.4.1.min.js",
+                    "saved": true,
+                    "size": 88145,
+                    "children": []
+                },
+                {
+                    "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/js/plugins.js",
+                    "path": "js/plugins.js",
+                    "saved": true,
+                    "size": 476108,
+                    "children": []
+                },
+                {
+                    "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/js/common.js",
+                    "path": "js/common.js",
+                    "saved": true,
+                    "size": 6139,
+                    "children": []
+                },
+                {
+                    "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/styles/style.css",
+                    "path": "css/style.css",
+                    "saved": true,
+                    "size": 46956,
+                    "children": [
+                        {
+                            "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/styles/bootstrap.min.css",
+                            "path": "css/bootstrap.min.css",
+                            "saved": true,
+                            "size": 155752,
+                            "children": []
+                        },
+                        {
+                            "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/styles/swiper.min.css",
+                            "path": "css/swiper.min.css",
+                            "saved": true,
+                            "size": 19767,
+                            "children": []
+                        },
+                        {
+                            "url": "http://v.bootstrapmb.com/fonts.googleapis.com/css%EF%BF%BDfamily=Archivo_400,400i,500,500i,600,600i,700,700i&display=swap.cssp%22",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://v.bootstrapmb.com/fonts.googleapis.com/css%EF%BF%BDfamily=Merriweather_400,900&display=swap.cssp%22",
+                            "saved": false
+                        },
+                        {
+                            "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/icons/icomoon.css",
+                            "path": "css/icomoon.css",
+                            "saved": true,
+                            "size": 2152,
+                            "children": [
+                                {
+                                    "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/icons/icomoon.ttf?tbz8yr",
+                                    "path": "fonts/icomoon.ttf",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/icons/icomoon.woff?tbz8yr",
+                                    "path": "fonts/icomoon.woff",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                },
+                                {
+                                    "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/icons/icomoon.svg?tbz8yr#icomoon",
+                                    "path": "img/icomoon.svg",
+                                    "saved": true,
+                                    "size": 0,
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/icons/icon-calendar.svg",
+                            "path": "img/icon-calendar.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/icons/icon-location.svg",
+                            "path": "img/icon-location.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/icons/icon-envelope.svg",
+                            "path": "img/icon-envelope.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/icons/icon-phone.svg",
+                            "path": "img/icon-phone.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/icons/icon-skype.svg",
+                            "path": "img/icon-skype.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/images/triangles-top.svg",
+                            "path": "img/triangles-top.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/images/triangles-bottom.svg",
+                            "path": "img/triangles-bottom.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/images/icon-quote.svg",
+                            "path": "img/icon-quote.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/icons/icon-quote.svg",
+                            "path": "img/icon-quote_1.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/icons/icon-news.svg",
+                            "path": "img/icon-news.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/images/favicons/apple-touch-icon-144x144.png",
+                    "path": "img/apple-touch-icon-144x144.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/images/favicons/apple-touch-icon-114x114.png",
+                    "path": "img/apple-touch-icon-114x114.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/images/favicons/apple-touch-icon-72x72.png",
+                    "path": "img/apple-touch-icon-72x72.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/images/favicons/apple-touch-icon-57x57.png",
+                    "path": "img/apple-touch-icon-57x57.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/images/favicons/favicon.png",
+                    "path": "img/favicon.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/img/avatar-1.jpg",
+                    "path": "img/avatar-1.jpg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/img/avatar-2.jpg",
+                    "path": "img/avatar-2.jpg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/img/avatar-3.jpg",
+                    "path": "img/avatar-3.jpg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/img/avatar-4.jpg",
+                    "path": "img/avatar-4.jpg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/img/avatar-5.jpg",
+                    "path": "img/avatar-5.jpg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/assets/images/social.jpg",
+                    "saved": false
+                }
+            ]
+        }
+    ],
+    "alias": "v-bootstrapmb-com-4ybvi6btu",
+    "info": {
+        "remark": [],
+        "title": "vCard - About",
+        "domain": "v.bootstrapmb.com",
+        "origin": "http://v.bootstrapmb.com",
+        "ip": "58.216.118.225",
+        "main": "index.html",
+        "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/",
+        "totalSize": "805 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "http://v.bootstrapmb.com/2019/7/mg0w5510/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "http://v.bootstrapmb.com/2019/7/mg0w5510/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "server": "Tengine",
+                "content-type": "text/html",
+                "content-length": "10426",
+                "connection": "close",
+                "vary": "Accept-Encoding",
+                "last-modified": "Mon, 02 Sep 2019 02:34:14 GMT",
+                "accept-ranges": "bytes",
+                "etag": "\"097d9e83661d51:0\"",
+                "x-powered-by": "ASP.NET",
+                "date": "Sun, 20 Mar 2022 16:33:39 GMT",
+                "ali-swift-global-savetime": "1647793956",
+                "via": "cache17.l2cn3058[0,0,200-0,H], cache51.l2cn3058[1,0], cache51.l2cn3058[1,0], kunlun6.cn1310[0,0,200-0,H], kunlun1.cn1310[2,0]",
+                "age": "11447083",
+                "x-cache": "HIT TCP_HIT dirn:10:102909888",
+                "x-swift-savetime": "Tue, 28 Jun 2022 03:49:47 GMT",
+                "x-swift-cachetime": "22509769",
+                "timing-allow-origin": "*",
+                "eagleid": "3ad8769516592410393203257e"
+            }
+        },
+        "time": {
+            "start": "2022-07-31T04:17:18.993Z",
+            "end": "2022-07-31T04:17:23.955Z"
+        }
+    },
+    "options": {
+        "url": "http://v.bootstrapmb.com/2019/7/mg0w5510/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
